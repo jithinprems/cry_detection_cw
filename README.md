@@ -15,7 +15,7 @@ To set up the project, follow these steps:
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd cry-detection
+   cd cry_detection_cw
    ```
 
 2. Install the required dependencies:
